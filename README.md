@@ -19,5 +19,5 @@ Transaction Fraud Detector
 
 ## Links
 
-- [LinkedIn](https://www.linkedin.com/in/danayounes)
+[LinkedIn](https://www.linkedin.com/in/danayounes) | [Portfolio](https://dyounes07.github.io/) 
 
