@@ -1,4 +1,4 @@
-# Hi, I'm [Dana Younes]
+# Hi, I'm Dana Younes :)
 
 I'm a computer science student interested in software engineering, cybersecurity, backend development, and algorithms.
 
@@ -8,10 +8,10 @@ Python · Java · Git · SageMath · SQL · HTML/CSS/JavaScript · React
 
 ## Featured projects
 
-- [Security Event Risk Dashboard](link)
-- [Attack Graph Tool](link)
-- [Cryptography Project](link)
-- [Battleship Game](link)
+- [Security Event Risk Dashboard](https://github.com/dyounes07/security-event-risk-dashboard)
+- [Attack Graph Tool](https://github.com/dyounes07/attack-graph-tool)
+- [Cryptography Project](https://github.com/dyounes07/security-event-risk-dashboard)
+- [Battleship Game](https://github.com/dyounes07/battleship-game)
 
 ## Currently working on
 
@@ -19,4 +19,5 @@ Python · Java · Git · SageMath · SQL · HTML/CSS/JavaScript · React
 
 ## Links
 
-[LinkedIn](www.linkedin.com/in/danayounes) 
+- [LinkedIn](https://www.linkedin.com/in/danayounes)
+
