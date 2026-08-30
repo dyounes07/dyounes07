@@ -15,7 +15,7 @@ Python · Java · Git · SageMath · SQL · HTML/CSS/JavaScript · React
 
 ## Currently working on
 
-Transaction Fraud Detector
+Transaction Fraud Detection Service
 
 ## Links
 
