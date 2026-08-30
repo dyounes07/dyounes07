@@ -10,12 +10,12 @@ Python · Java · Git · SageMath · SQL · HTML/CSS/JavaScript · React
 
 - [Security Event Risk Dashboard](https://github.com/dyounes07/security-event-risk-dashboard)
 - [Attack Graph Tool](https://github.com/dyounes07/attack-graph-tool)
-- [Cryptography Project](https://github.com/dyounes07/iq-dh)
+- [Cryptography Project](https://github.com/dyounes07/iq-dh-sagemath)
 - [Battleship Game](https://github.com/dyounes07/battleship-game)
 
 ## Currently working on
 
-[Transaction Fraud Detector]
+Transaction Fraud Detector
 
 ## Links
 
